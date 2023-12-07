@@ -19,5 +19,5 @@ This project explores the effectiveness of various time series forecasting model
 
 ## Running the Code
 1. Run notebook on data prep
-2. Run the models to replicate the forecasting results
+2. Run the models in notebooks with prefix 'Updated' to replicate the forecasting results
 
